@@ -7,13 +7,13 @@ by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/s
 UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](https://reddit.com/u/Samg_is_a_Ninja)<br/>
 
 ## The most outstanding changes over the other jailbreaks
-* All exploits in same app
+* All exploits in the same app
 * Detailed  error messages
 * Faster patches
 * More stable patches
 * No extra battery drain
 * No random freezes
-* No random slow downs
+* No random slowdowns
 * No data is logged or shared
 * No malware
 * Proper jailbreak state detection
@@ -24,7 +24,7 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 * Cydia supports iPhone X screen size
 * Official Cydia Substrate for tweak injection
 * Much faster and more stable ldrestart 
-* Changes to Cydia were made with permission from Saurik 
+* Changes to Cydia made with permission from Saurik 
 * Option to skip loading daemons
 * Option to dump APTicket
 * Option to refresh icon cache
@@ -32,8 +32,8 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 * Option to block app revokes
 * Option to restore RootFS
 * Option to Export tfp0
-* Button to restart device
-* Button to open Cydia in case it doesn't appear on the Home Screen
+* Button to restart the device
+* Button to open Cydia if it doesn't appear on the Home Screen
 * Label to show the days left till the application expires
 * Built-In Update checker
 * Working debugserver
@@ -62,7 +62,7 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 * Wait at least one minute on the jailbreak screen
 
 ## Source code
-* This project is completely open source and it will be kept like it in the future
+* This project is completely open source and will be kept like it in the future
 * Any kind of contribution is cordially welcome
 
 ## Video tutorial
@@ -73,7 +73,7 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 - [x] Completely switch to Cydia Substrate and ditch Substitute
 - [x] Make switching from other jailbreaks without wiping the device possible
 - [x] Fix a kernel panic that's triggered by a kernel data abort which is caused by a UaF bug in jailbreakd
-- [x] Add the v1ntex exploit by tihmster for better success rate
+- [x] Add the v1ntex exploit by tihmster for a better success rate
 - [ ] Chain [@_bazad](https://twitter.com/_bazad)'s [blanket](https://github.com/bazad/blanket) to bypass the developer certificate requirement for multi_path
 - [ ] Enable the on-fly entitlement patching on iOS 11
 - [ ] WebKit Port with [@_niklasb](https://twitter.com/_niklasb)'s [WebKit Exploit](https://github.com/phoenhex/files/tree/master/exploits/ios-11.3.1)
